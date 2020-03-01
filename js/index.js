@@ -3,6 +3,7 @@ import renderFunc from "./lib/drag-drop.js";
 
 function setup() {
   T.setValueSentOnAllFaces(0);
+  T.setColor(T.OFF);
 }
 
 function loop() {
