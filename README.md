@@ -32,7 +32,7 @@ function loop() {
 - [ ] Button Presses
 - [ ] Local variables for tiles
 - [ ] Tests
-  - [ ] [check-dts](https://github.com/ai/check-dts)
+  - [x] api.d.ts added, no index.js to test so no [check-dts](https://github.com/ai/check-dts)
   - [ ] mocha
 
 ### Wishlist
